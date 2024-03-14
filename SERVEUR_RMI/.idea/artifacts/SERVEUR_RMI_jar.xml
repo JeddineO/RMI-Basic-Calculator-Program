@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SERVEUR_RMI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SERVEUR_RMI_jar</output-path>
+    <root id="archive" name="SERVEUR_RMI.jar">
+      <element id="module-output" name="SERVEUR_RMI" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Service/InterfServiceDistant.java" />
+    </root>
+  </artifact>
+</component>
